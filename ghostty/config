@@ -1,0 +1,31 @@
+theme = tokyonight-storm
+
+background-blur-radius = 20
+window-decoration = true
+
+font-size = 16
+font-family = JetBrainsMono Nerd Font Mono
+font-family-bold = JetBrainsMono NFM Bold
+font-family-italic = JetBrainsMono NFM Italic
+font-family-bold-italic = JetBrainsMono NFM Bold Italic
+
+cursor-style-blink = false
+cursor-style = block_hollow
+shell-integration-features = no-cursor
+
+window-padding-color = extend
+window-height = 15
+window-width = 100
+window-padding-x = 10
+window-padding-y = 10
+
+macos-titlebar-style = tabs
+macos-option-as-alt = true
+
+#macos-icon = retro
+macos-icon = custom-style
+macos-icon-frame = beige
+macos-icon-ghost-color = FFFFFF
+macos-icon-screen-color = 000000
+
+adjust-cell-height = 50%
